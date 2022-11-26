@@ -1,0 +1,28 @@
+2022-11-26 23:59:14,048 INFO n = 7
+2022-11-26 23:59:14,050 INFO suitable
+2022-11-26 23:59:15,509 INFO k = 3
+2022-11-26 23:59:15,511 INFO hidden_num = 6
+2022-11-26 23:59:18,897 INFO input num = 3
+2022-11-26 23:59:18,897 INFO suitable
+2022-11-26 23:59:18,897 INFO the number isn't guessed
+2022-11-26 23:59:21,218 INFO input num = 5
+2022-11-26 23:59:21,219 INFO suitable
+2022-11-26 23:59:21,219 INFO the number isn't guessed
+2022-11-26 23:59:24,031 INFO input num = 6
+2022-11-26 23:59:24,031 INFO suitable
+2022-11-26 23:59:24,031 INFO the number is guessed
+2022-11-26 23:59:31,215 INFO n = 10
+2022-11-26 23:59:31,218 INFO suitable
+2022-11-26 23:59:44,122 INFO n = 10
+2022-11-26 23:59:44,123 INFO suitable
+2022-11-26 23:59:45,607 INFO k = 5
+2022-11-26 23:59:45,609 INFO hidden_num = 2
+2022-11-26 23:59:47,689 INFO input num = 5
+2022-11-26 23:59:47,689 INFO suitable
+2022-11-26 23:59:47,690 INFO the number isn't guessed
+2022-11-26 23:59:51,281 INFO input num = 3
+2022-11-26 23:59:51,281 INFO suitable
+2022-11-26 23:59:51,281 INFO the number isn't guessed
+2022-11-26 23:59:53,188 INFO input num = 2
+2022-11-26 23:59:53,189 INFO suitable
+2022-11-26 23:59:53,189 INFO the number is guessed
